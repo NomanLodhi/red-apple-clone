@@ -1,0 +1,92 @@
+[
+    {
+        "name":"crunchy roll",
+        "image":"Media/crunchy-roll.jpeg",
+        "description":"crunchy roll, fries & a buddy pack drink",
+        "price":400,
+        "category":"new arrivals"
+    },
+    {
+        "name":"triple roll deal",
+        "image":"Media/triple-roll.png",
+        "description":"any 3 chicken rolls of your choice",
+        "price":870,
+        "category":"new arrivals"
+    },
+    {
+        "name":"crunchy combo",
+        "image":"Media/crunchy-combo.jpeg",
+        "description":"crispy burger, drum stick, fries and drink",
+        "price":750,
+        "category":"new arrivals"
+    },
+    {
+        "name":"azadi deal 01",
+        "image":"Media/azadi-deal-1.png",
+        "description":"1 chicken tikka (leg) 2 paratha 1 roll, salad, raita 1 345ml drink",
+        "price":947,
+        "category":"azadi deals"
+    },
+    {
+        "name":"azadi deal 02",
+        "image":"Media/azadi-deal-2.png",
+        "description":"1 chicken tikka (leg) 2 paratha 1 roll, salad, raita 1 345ml drink",
+        "price":947,
+        "category":"azadi deals"
+    },
+    {
+        "name":"value deal 1",
+        "image":"Media/azadi-deal-2.png",
+        "description":"crex burger with fries & buddy pack drink 345ml",
+        "price":500,
+        "regularPrice":720,
+        "discount":31,
+        "category":"online exclusive deals"
+    },
+    {
+        "name":"value deal 3",
+        "image":"Media/azadi-deal-2.png",
+        "description":"4 crex burgers with fries",
+        "price":1888,
+        "regularPrice":2000,
+        "discount":34,
+        "category":"online exclusive deals"
+    },
+    {
+        "name":"value deal 2",
+        "image":"Media/azadi-deal-2.png",
+        "description":"club sandwich with fries & chicken chutni roll",
+        "price":750,
+        "regularPrice":1000,
+        "discount":25,
+        "category":"online exclusive deals"
+    },
+    {
+        "name":"deal 1 - cheese burger combo",
+        "image":"Media/cheese-burger-combo.png",
+        "description":"with chicken cheese roll & french fries",
+        "price":800,
+        "regularPrice":870,
+        "discount":8,
+        "category":"combos"
+    },
+    {
+        "name":"deal 2 - crispy burger combo",
+        "image":"Media/crispy-burger-combo.png",
+        "description":"with 2 chicken wings & french fries",
+        "price":800,
+        "regularPrice":870,
+        "discount":8,
+        "category":"combos"
+    }
+    ,
+    {
+        "name":"deal 3 - mega crispy burger combo",
+        "image":"Media/mega-crispy-combo.png",
+        "description":"with 2 garlic fried chicken & french fries",
+        "price":900,
+        "regularPrice":930,
+        "discount":3,
+        "category":"combos"
+    }
+]
