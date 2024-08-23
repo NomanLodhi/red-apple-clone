@@ -7,6 +7,7 @@ import Newarrivals from './sections/newarrivals';
 import Azadideals from './sections/azadideals';
 import Onlineexclusivedeals from './sections/onlineexclusivedeals';
 import Combos from './sections/combos';
+import Footer from './sections/footer';
 function App() {
   return (
     <>
@@ -18,6 +19,7 @@ function App() {
     <Azadideals/>
     <Onlineexclusivedeals/>
     <Combos/>
+    <Footer/>
     </>
   );
 }

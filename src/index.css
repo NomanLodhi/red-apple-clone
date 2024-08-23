@@ -56,6 +56,12 @@ color: gray;
   color: black;
   text-decoration: none;
 }
+.bg-footer{
+  background-color: #F3F4F6;
+}
+.pacifico {
+  font-family: "Pacifico", cursive !important;
+}
 @media (max-width:760px) {
   .d-small-none{
   display: none !important;
