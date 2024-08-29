@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/red-apple-clone/static/css/main.87bb3f26.css",
-    "main.js": "/red-apple-clone/static/js/main.dd093b4f.js",
+    "main.js": "/red-apple-clone/static/js/main.7f802f2f.js",
     "static/js/453.c3d404be.chunk.js": "/red-apple-clone/static/js/453.c3d404be.chunk.js",
     "static/media/slide-2.jpeg": "/red-apple-clone/static/media/slide-2.89b36ccaf4a9eca849ed.jpeg",
     "static/media/pumpkin-soup-7534621_1280.png": "/red-apple-clone/static/media/pumpkin-soup-7534621_1280.11ed482670145529e9a4.png",
@@ -34,11 +34,11 @@
     "static/media/burger-menu-left-svgrepo-com.svg": "/red-apple-clone/static/media/burger-menu-left-svgrepo-com.3d8db99dc14bc32ec13ae347bb682bce.svg",
     "static/media/kjkljlk006.svg": "/red-apple-clone/static/media/kjkljlk006.28c7f59e5690d0e7862c.svg",
     "main.87bb3f26.css.map": "/red-apple-clone/static/css/main.87bb3f26.css.map",
-    "main.dd093b4f.js.map": "/red-apple-clone/static/js/main.dd093b4f.js.map",
+    "main.7f802f2f.js.map": "/red-apple-clone/static/js/main.7f802f2f.js.map",
     "453.c3d404be.chunk.js.map": "/red-apple-clone/static/js/453.c3d404be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87bb3f26.css",
-    "static/js/main.dd093b4f.js"
+    "static/js/main.7f802f2f.js"
   ]
 }
