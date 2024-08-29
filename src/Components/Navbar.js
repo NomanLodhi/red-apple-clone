@@ -1,10 +1,22 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
+
 import logo1 from '../Media/logo-1.png';
 import logo from '../Media/logo.png';
 
-function Navbar() {
+function Navbar(props) {
+const[timings,setTimings]=useState('set')
+useEffect(()=>{
+  let times=new Date();
+  let hours=times.getHours();
+  if(hours>8){
+    setTimings('Closed')
+  }
+  else{
+    setTimings('Open')
+  }
 
-    
+},[])
+   
   
 
   return (
@@ -17,7 +29,7 @@ function Navbar() {
        <img src={logo1} alt="logo-apple" width={70} />
       <a className="navbar-brand m-1 " href="#">
         <img src={logo} alt="logo" width={200} />
-        <p style={{fontSize:'14px'}} className='m-0 poppins'><span className="text-success">Timings:</span> 10:45 am - 8:00 pm</p>
+        <p style={{fontSize:'14px'}} className='m-0 poppins'><span className="text-success">{timings}</span> 10:45 am - 8:00 pm</p>
       </a>
        </div>
       <div className="d-flex align-items-center d-small-none">
